@@ -314,7 +314,7 @@ a{
   .project-card{
     width:90%;
     height:550px;
-    background-image: url(./images/projects/Project1.png);
+    background-image: url(./images/weatherApp.jpg);
     background-size: cover;
     /* background-repeat: no-repeat; */
     position:relative;
@@ -448,19 +448,19 @@ a{
   }
 
   #project1{
-    background-image: url(./images/projects/Project1.png);
+    background-image: url(./images/weatherApp.jpg);
   }
 
   #project2{
     margin-left:120px;
-    background-image: url(./images/projects/Project2.png);
+    background-image: url(./images/shoppingCartApp.jpg);
   }
   #project3{
-    background-image: url(./images/projects/Project3.png);
+    background-image: url(./images/devDetective.jpg);
   }
   #project4{
     margin-left:120px;
-    background-image: url(./images/projects/Project4.png);
+    background-image: url(./images/planWithLove.jpg);
   }
 
   @media (max-width:1300px) {
@@ -545,11 +545,11 @@ a{
 
 .skill-fade-text{
   position:absolute;
-  font-size:15em;
+  font-size:13em;
   font-style:bold;
   color:rgb(231,231,231);
   bottom:-34.5%;
-  right:-25%;
+  right:5%;
   user-select:none;
   overflow-y:hidden;
 }
