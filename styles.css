@@ -668,6 +668,10 @@ a{
   font-size:1.5rem;
 }
 
+.toplevel-wrapper{
+  -ms-flex-item-align: end;
+}
+
 footer{
   position:relative;
   margin-top:-1px;
